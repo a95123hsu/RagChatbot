@@ -1,0 +1,10 @@
+streamlit
+openai
+pandas
+numpy
+faiss-cpu
+tiktoken
+langchain
+langchain-community
+python-dotenv
+supabase
